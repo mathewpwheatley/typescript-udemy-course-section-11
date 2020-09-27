@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/mathewpwheatley/typescript-udemy-course-section-11#readme",
   "dependencies": {
+    "@types/node": "^14.11.2",
     "concurrently": "^5.3.0",
     "nodemon": "^2.0.4"
   }
